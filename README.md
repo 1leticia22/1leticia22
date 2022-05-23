@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1leticia22
+- 👋 Hi, I’m 1leticia22
 - 👀 I’m interested in fazer novas amizades com pessoas que estão ingajadas  em compartilhar meus conhecimentos em computação.
 - 🌱 I’m currently learning estou iniciando nesse ramo de programação, onde já realizamos dois projetos em duas bibliotecas distintas:Scratch e p5.js.
 - 💞️ I’m looking to collaborate on irei colaborar com codicos destas duas bibliotecas.
